@@ -1,4 +1,4 @@
-# Faiya Streak
+# Faiya Streak 🔥
 
 This is a project made to understand how much stuff I did in 1 day
 
