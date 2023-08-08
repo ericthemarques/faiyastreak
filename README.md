@@ -1,8 +1,5 @@
-# React + Vite
+# Faiya Streak
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a project made to understand how much stuff I did in 1 day
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/ocarinamachine/faiyastreak/assets/67469148/7e477161-3da6-4e0d-ab63-9aa349c1dc30)
