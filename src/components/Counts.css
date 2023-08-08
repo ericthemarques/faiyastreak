@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=REM:ital@0;1&display=swap');
+
+.Buttonstyle {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    font-family: REM;
+    border-radius: 12px;
+    border-color: rgb(255, 153, 0);
+    border-style: solid;
+
+    width: 90px;
+    background-color: rgb(51, 51, 51);
+    color: rgb(224, 224, 224);
+
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    border-color: rgb(255, 72, 0);
+    color: rgb(41, 41, 41);
+    background-color: rgb(224, 224, 224);
+}

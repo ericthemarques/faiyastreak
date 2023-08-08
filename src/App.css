@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=REM:ital@0;1&display=swap');
+
+body {
+  margin: auto;
+
+  font-family: REM, 'Times New Roman', Times, serif;
+  background-color: rgb(75, 75, 75);
+  color: rgb(226, 225, 225);
+}
+
+
+.home {
+  align-items: center;
+}
+
+/* parei nessa linha de cima ^ */

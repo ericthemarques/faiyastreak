@@ -1,0 +1,25 @@
+.fierce {
+    height: 180px;
+    width: 180px;
+    padding-top: 50px;
+  }
+
+.fireimage, .messages, p {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    margin: 0;
+    padding-bottom: 5px;
+}
+
+p {
+    margin: 0;
+    padding-bottom: 30px;
+}
+
+span {
+    color: rgb(255, 145, 0);
+}
+
